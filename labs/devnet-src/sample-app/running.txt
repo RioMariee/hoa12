@@ -1,0 +1,6 @@
+CONTAINER ID   IMAGE          COMMAND                  CREATED             STATUS                         PORTS     NAMES
+c505f9c7266d   afb69f3af77f   "/bin/sh -c 'pip ins…"   17 minutes ago      Exited (2) 17 minutes ago                eloquent_jepsen
+724f1a9da5fb   afb69f3af77f   "/bin/sh -c 'pip ins…"   25 minutes ago      Exited (2) 25 minutes ago                stoic_solomon
+eb2aa45e8860   afb69f3af77f   "/bin/sh -c 'pip ins…"   About an hour ago   Exited (2) About an hour ago             elastic_gauss
+9fecfffd1b37   afb69f3af77f   "/bin/sh -c 'pip ins…"   About an hour ago   Exited (2) About an hour ago             cranky_volhard
+b8450cb7a913   afb69f3af77f   "/bin/sh -c 'pip ins…"   About an hour ago   Exited (2) About an hour ago             kind_yonath
